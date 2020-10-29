@@ -1,0 +1,2 @@
+# EverypainoSoftKeyboardSetting
+EverypainoSoftKeyboardSetting"*.kmf"file
